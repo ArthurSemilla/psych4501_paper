@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/Debian) (preloaded format=xelatex 2015.2.22)  13 NOV 2015 11:38
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/Debian) (preloaded format=xelatex 2015.2.22)  13 NOV 2015 19:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -704,57 +704,60 @@ Class apa6 Info: Keywords not defined on input line 17.
 Missing character: There is no “ in font ec-lmr12!
 Missing character: There is no ” in font ec-lmr12!
  [2] [3]
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 38.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 42.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 38.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 42.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 38.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 42.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 38.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 42.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 38.
+(Font)              <12> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 38.
+(Font)              <8> on input line 42.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 38.
+(Font)              <6> on input line 42.
 
 
-Package natbib Warning: Citation `Lamport1986' on page 4 undefined on input lin
-e 47.
+Package natbib Warning: Citation `Lamport1986' on page 5 undefined on input lin
+e 51.
 
 
-Package natbib Warning: Citation `Lamport1986' on page 4 undefined on input lin
-e 47.
+Package natbib Warning: Citation `Lamport1986' on page 5 undefined on input lin
+e 51.
 
 
-Underfull \vbox (badness 1490) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
-Class apa6 Info: Keywords not defined on input line 50.
+ [5]
+Class apa6 Info: Keywords not defined on input line 54.
 
-[5]
+[6]
 Missing character: There is no “ in font ec-lmr12!
 Missing character: There is no ” in font ec-lmr12!
- [6]
+ [7]
 
 Package natbib Warning: There were undefined citations.
 
-AED endfloat: Processing end Figures and Tables [7] (./paper.aux) ) 
+AED endfloat: Processing end Figures and Tables [8] (./paper.aux) ) 
 Here is how much of TeX's memory you used:
  15360 strings out of 493733
  289353 string characters out of 6147945
@@ -764,4 +767,4 @@ Here is how much of TeX's memory you used:
  1328 hyphenation exceptions out of 8191
  62i,11n,80p,1044b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on paper.pdf (7 pages).
+Output written on paper.pdf (8 pages).
