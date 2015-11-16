@@ -1,4 +1,4 @@
-This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2015.9.25)  15 NOV 2015 19:55
+This is LuaTeX, Version beta-0.80.0 (MiKTeX 2.9) (rev 5238)  (format=lualatex 2015.9.25)  15 NOV 2015 21:09
 **paper.tex
 (./paper.tex
 LaTeX2e <2015/01/01> patch level 2
@@ -657,19 +657,19 @@ LaTeX Info: Redefining \addtolength on input line 81.
 ) (./paper.aux)
 \openout1 = paper.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 17.
 
 ("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/lm/t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -735,7 +735,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 ABD: EveryShipout initializing macros
-Class apa6 Info: Keywords not defined on input line 17.
+Class apa6 Info: Keywords not defined on input line 18.
  [1{C:/Users/Sam/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ] [2
@@ -748,59 +748,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 7099) has occurred while \output is active []
 
  [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6]
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 62.
-
-("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/lm/omslmr.fd"
+[6]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 60.
+ ("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/lm/omslmr.fd"
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 62.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 60.
 
 ("C:/Program Files (x86)/MiKTeX 2.9/tex/latex/lm/omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 62.
- [7] [8]
-
-Package natbib Warning: Citation `Lamport1986' on page 9 undefined on input line
- 105.
-
-
-Package natbib Warning: Citation `Lamport1986' on page 9 undefined on input line
- 105.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-
-Package natbib Warning: There were undefined citations.
-
-AED endfloat: Processing end Figures and Tables [10] (./paper.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-)
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 60.
+ [7] [8] [9]
+AED endfloat: Processing end Figures and Tables [10] (./paper.aux))
 
 Here is how much of LuaTeX's memory you used:
- 16351 strings out of 494701
+ 16304 strings out of 494701
  100000,383344 words of node,token memory allocated
  402 words of node memory still in use:
     nodes
-   avail lists: 2:32,3:67,4:671,5:163,6:2434,7:222,9:95,10:192
- 19424 multiletter control sequences out of 65536+200000
+   avail lists: 2:21,3:56,4:680,5:163,6:2434,7:222,9:96,10:202
+ 19377 multiletter control sequences out of 65536+200000
  21 fonts using 599203 bytes
- 62i,12n,80p,1043b,612s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,12n,56p,1043b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-ec.enc}<<C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/lm/lmbx12.pfb><<C:/Program Files (x86)/MiKTeX 2.9/fon
 ts/type1/public/lm/lmr12.pfb><<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
 lic/lm/lmri12.pfb><<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmsy
 10.pfb>
-Output written on paper.pdf (10 pages, 101503 bytes).
+Output written on paper.pdf (10 pages, 100665 bytes).
 
 PDF statistics: 54 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
